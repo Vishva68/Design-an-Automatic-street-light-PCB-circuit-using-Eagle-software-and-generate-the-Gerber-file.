@@ -5,7 +5,7 @@ To design the schematic and PCB layout diagram of an automatic street light circ
 ## EQUIPMENT REQUIRED:
 ●	Hardware: Personal Computer (PC)<br>
 ●	Software: Eagle<br>
-## PROCEDURE:
+## PROCEDURE :
 	Create a New Project:<br>
 o	Launch EAGLE and start a new project for your PCB design.<br>
 o	Within the project, create a new schematic file.<br>
